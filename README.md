@@ -1,4 +1,4 @@
-# server_problem
+# Server_problem
 
 Using a containerization or virtualization tool, create an environment that contains a git server
 and a web server. The git server should have a user “admin” with a repo “admin.” Script files will
