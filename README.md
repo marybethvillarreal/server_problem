@@ -7,13 +7,18 @@ admin/admin and display the results as the root webpage.
 
 ## Getting Started
 
-The first step of tackling the 
+Steps in tackling the problem
 
 ### Prerequisites
 
-Things you need to install. 
-1. Setup your own git server
+Things you need to setup. 
+1. git server
 2. Install apache2 
+   - sudo apt-get install apache2
+
+### Scripts
+1. ps.sh script 
+  -Port numbers for web server (apache2) is changed from 80 and is served over 443
 
 ## Authors
 
