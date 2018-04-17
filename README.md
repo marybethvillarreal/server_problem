@@ -12,7 +12,8 @@ Steps in tackling the problem
 ### Prerequisites
 
 Things you need to setup. 
-1. git server
+1. git server 
+- Used https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server modified somome commands
 2. Install apache2 
    - sudo apt-get install apache2
 
